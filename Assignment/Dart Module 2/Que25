@@ -1,0 +1,7 @@
+Can a class implement more than one interface?
+
+Your class can implement more than one interface, 
+so the implements keyword is followed by a 
+comma-separated list of the interfaces implemented 
+by the class. By convention, the implements clause 
+follows the extends clause, if there is one.
