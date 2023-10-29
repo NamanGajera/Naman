@@ -1,0 +1,4 @@
+What are the rules of method overriding in Dart?
+
+- The return type must be the same type as (or a subtype of) the overridden method's return type.
+- Argument types must be the same type as (or a supertype of) the overridden method's argument types.

@@ -1,0 +1,3 @@
+How do you restrict a member of a class from inheriting by its sub classes? 
+
+You can prevent a class from being subclassed by using the final keyword in the class's declaration. Similarly, you can prevent a method from being overridden by subclasses by declaring it as a final method. An abstract class can only be subclassed; it cannot be instantiated.

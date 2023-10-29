@@ -1,0 +1,6 @@
+Can a class extend by itself in Dart?
+
+Dart allows single inheritance, which means a class 
+can extend from a single parent. But a single parent 
+can have multiple children, and each child can have 
+its own children, building up a hierarchy many classes deep.

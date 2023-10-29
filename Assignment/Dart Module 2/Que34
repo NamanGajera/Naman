@@ -1,0 +1,5 @@
+What the order is of extends and implements keyword on Dart class declaration?
+
+In Dart a class can only extend one class. Implements: Every class implicitly 
+defines an interface containing all the instance members of the class and of 
+any interfaces it implements.
